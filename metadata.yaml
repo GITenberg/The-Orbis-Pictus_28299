@@ -1,0 +1,44 @@
+_repo: The-Orbis-Pictus_28299
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hoole, Charles
+    birthdate: 1610
+    deathdate: 1667
+    gutenberg_agent_id: '33252'
+    url: http://www.gutenberg.org/2009/agents/33252
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Comenius, Johann Amos
+    alias: Comenius, John-Amos
+    birthdate: 1592
+    deathdate: 1670
+    gutenberg_agent_id: '33250'
+    url: http://www.gutenberg.org/2009/agents/33250
+    wikipedia: http://en.wikipedia.org/wiki/John_Amos_Comenius
+  editor:
+    agent_name: Bardeen, C. W. (Charles William)
+    alias: Bardeen, Charles William
+    birthdate: 1847
+    deathdate: 1924
+    gutenberg_agent_id: '33251'
+    url: http://www.gutenberg.org/2009/agents/33251
+description: ''
+gutenberg_issued: '2009-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picture books for children'
+- !lcsh 'Latin language -- Readers'
+- !lcc 'LT'
+- !lcsh 'Natural history -- Juvenile literature'
+title: The Orbis Pictus
+url: http://www.gutenberg.org/ebooks/28299
